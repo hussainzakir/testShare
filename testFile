@@ -29,5 +29,5 @@ public interface MassUploadsDao extends InfoProDao {
 	void saveUpload(@Param("templateId") Integer templateId, @Param("uploadJson") String json,
 			@Param("result") StoredProcCallResult result);
 
-			checking code 
+			checking code dd
 }
